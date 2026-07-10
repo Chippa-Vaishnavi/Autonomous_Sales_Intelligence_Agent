@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+prophet
+plotly
+streamlit
+langgraph
+reportlab
+openpyxl
+python-dotenv
+langchain
+openai
